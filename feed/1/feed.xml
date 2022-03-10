@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="urf-8"?>
+<rss version "2.0">
+    <channel>
+        <title>Tumbled RSS feed</title>
+        <link>https://rebirth-devs.github.io/feed/</link>
+        <description>What's going on in the Tumbledverse.</description>
+        <language>en-us</language>
+            <item>
+                <title>Release 1.3.0 is out!</title>
+                <link>https://rebirth-devs.github.io</link>
+                <guid>https://rebirth-devs.github.io/feed/1/</guid>
+                <pubDate>Thu, 3 Feb 2022 20:47:47 -0500</pubDate>
+                <description>Ahoy! It's ya boi, back for more Tumbled. I know it's been a while, but I've been working on a big update and needed to push something out. Anyway, I've been getting really into really out of date and/or underused technologies, and that brought me to RSS. The syntax is easy, the format is open, and I love me some nano action. Oh, wow, I've typed a lot of text. Well, check out 1.3.0 out on GitHub! Bye!</description>
+    </channel>
+        </rss>
